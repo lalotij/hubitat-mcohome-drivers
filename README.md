@@ -25,8 +25,8 @@ With the built-in generic drivers:
 ## Installation
 
 1. In Hubitat, go to **Drivers Code → New Driver → Import**. Paste the raw URL of the driver file and click **Save**.
-   - `https://raw.githubusercontent.com/YOUR_GITHUB_USER/hubitat-mcohome-drivers/main/drivers/MCOHome_MH-S511_Switch.groovy`
-   - `https://raw.githubusercontent.com/YOUR_GITHUB_USER/hubitat-mcohome-drivers/main/drivers/MCOHome_MH-S512_Dual_Switch.groovy`
+   - `https://raw.githubusercontent.com/lalotij/hubitat-mcohome-drivers/main/drivers/MCOHome_MH-S511_Switch.groovy`
+   - `https://raw.githubusercontent.com/lalotij/hubitat-mcohome-drivers/main/drivers/MCOHome_MH-S512_Dual_Switch.groovy`
 2. Open the device, go to **Device Info → Type**, choose the driver and click **Save**.
 3. On the **Commands** tab, click **Configure**. The logs should show `Group 2 ... -> hub OK`.
 4. MH-S512 only: use the two child devices ("Button 1" and "Button 2") in your dashboards and rules.
