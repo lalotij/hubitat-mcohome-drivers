@@ -5,7 +5,7 @@ Custom Hubitat Elevation drivers for the MCOHome MH-S510 series of Z-Wave Plus t
 | Driver | Models | Status |
 |---|---|---|
 | `MCOHome MH-S511 Switch` | MH-S511, MHS511, MHS511SL (1 gang) | Stable, tested on MHS511SL |
-| `MCOHome MH-S512 Dual Switch` | MH-S512, MHS512, MHS512SL (2 gang) | Beta |
+| `MCOHome MH-S512 Dual Switch` | MH-S512, MHS512, MHS512SL (2 gang) | Stable, tested on MHS512SL |
 
 ## Problems these drivers solve
 
